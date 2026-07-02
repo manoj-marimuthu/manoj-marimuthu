@@ -18,4 +18,6 @@ Currently working using the following tools (mostly..):
 
 Currently learning:
 - Linux
+- C++
+- OS internals
 
