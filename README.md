@@ -7,8 +7,8 @@ My name is Manoj.
 <div align="center">
 <i><q>what is a better fuel to quench the curiosity of a programmer than understanding abstractions and building them yourself</q></i>
 </div>
+<hr/>
+<br/> 
 <p>
   Currently learning about security and ethical hacking.
 </p>
-<hr/>
-<br/> 
